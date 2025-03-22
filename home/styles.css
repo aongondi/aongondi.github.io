@@ -1,0 +1,22 @@
+body {background-color:tan; 
+padding: 30px;}
+
+p {font-family: Georgia;}
+
+ul {list-style-type: none;
+  margin: 0;
+  padding: 0;
+background-color: #927143;
+overflow: hidden;}
+
+li {float: left}
+
+ li a {display: block;
+ width: 60px;
+color: #FAECE2;
+text-align: center; padding: 14px 16px;
+text-decoration: none;}
+
+li a:hover {
+  background-color: #64461E;
+}
